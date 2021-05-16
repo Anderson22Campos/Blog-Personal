@@ -1,0 +1,53 @@
+header{
+    font-family: 'Lobster', cursive;
+    font-size: 32px;
+}
+h1{
+    color:chocolate;
+font-weight:bolder;
+font-size: 70px;
+margin: 47px 93px;
+text-shadow:3px 0 1px black;
+}
+p{
+    background:#fff;
+    width: 705px;
+    height: 417px;
+    margin: -13px 70px;
+    text-align: center;
+    font-family: 'Original Surfer', cursive;
+    font-size: 25px;
+    border-radius: 37px;  
+}
+body{
+    background-image: url(IMAGENES/PORTADA.jpg);
+    background-repeat:no-repeat;
+    background-size: 1420px 100%;
+    display:table-cell;
+}
+
+header{
+    display:contents;
+    height:80px;
+    width:100%;
+    margin:30px;
+    padding:32px;
+}
+.ICONOS{
+display:flex;
+height: 37vh;
+align-items:center;
+justify-content:flex-start;
+margin: 41px 90px;
+
+
+}
+.ICONOS ul li{
+    display:table-cell
+}
+.ICONOS ul li img{
+    width: 200px;
+}
+footer{
+    display: table-cell;
+}
